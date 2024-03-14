@@ -15,7 +15,7 @@ JOBS = [
     },
     {
         "id":3,
-        "title": "data excel",
+        "title": "honeysing",
         "location": "bengaluru, India"
     },
     {
